@@ -4,11 +4,6 @@ This project is a fully functional web chat application deployed on AWS (Amazon 
 
 Technologies Used:
 
-
-Frontend: Tailwind CSS, React
-
-
-Backend: Node.js, Express.js
-
+Backend: Node.js, TypeScript
 
 Deployment: AWS (Amazon Web Services) - Amazon API Gateway, AWS CloudFormation, S3, AWS Lambda, Amazon DynamoDB
