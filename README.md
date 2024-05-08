@@ -18,40 +18,7 @@ Thanks to [`serverless-typescript`](https://github.com/prisma-labs/serverless-pl
 - [`serverless-framework`](https://github.com/serverless/serverless)
 - [`node.js`](https://nodejs.org)
 
-## Usage
 
-To create new serverless AWS TypeScript project using this template run:
-
-```bash
-serverless create \
---template-url https://github.com/ttarnowski/serverless-aws-nodejs-typescript/tree/main \
---path myServiceName
-```
-
-where `myServiceName` should be replaced with the name of your choice.
-
-Then change directory to the newly created one:
-
-```
-cd myServiceName
-```
-
-And run:
-
-```
-npm install
-```
-
-or:
-
-```
-yarn install
-```
-
-## Licence
-
-MIT.
-=======
 # ByteBabble-Serverless-Web-Chat-Application
 A real time serverless web chat application deployed to AWS with serverless framework
 This project is a fully functional web chat application deployed on AWS (Amazon Web Services). It allows users to engage in real-time conversations, share messages, and collaborate seamlessly over the internet. Built with modern web technologies, this application offers a responsive and intuitive user interface, making communication easy and accessible from any device with internet connectivity.
